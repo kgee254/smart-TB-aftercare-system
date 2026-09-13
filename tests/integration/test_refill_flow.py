@@ -188,7 +188,7 @@ def test_healthworker_can_process_refill_request(
 
     request = refill_manager.request_refill()
 
-    assert request["patient_id"] in healthworker.assigned_patient_ids
+    assert request["patient_id"] in healthworker.assigned_patients
 
     refill_manager.update_request_status(
         request_id=request["request_id"],
@@ -257,7 +257,7 @@ def test_complete_refill_flow(
     # Healthworker is assigned to the patient.
     healthworker.assign_patient(patient.patient_id)
 
-    assert patient.patient_id in healthworker.assigned_patient_ids
+    assert patient.patient_id in healthworker.assigned_patients
 
     # The system calculates the patient's remaining supply.
     doses_taken = 160

@@ -1,0 +1,12 @@
+[
+    {
+        "case_id": 1,
+        "patient_id": 2,
+        "healthworker_id": 1,
+        "reason": "Patient reported severe symptoms.",
+        "status": "in_progress",
+        "created_date": "2026-09-06",
+        "action": "Called patient to assess reported symptoms.",
+        "escalation_reason": null
+    }
+]

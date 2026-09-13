@@ -1,0 +1,20 @@
+[
+    {
+        "patient_id": 1,
+        "name": "John Kamau",
+        "username": "john1",
+        "password": "john123",
+        "phone": "0711111111",
+        "role": "patient",
+        "needs_attention": false
+    },
+    {
+        "patient_id": 2,
+        "name": "Mary Njeri",
+        "username": "mary2",
+        "password": "mary123",
+        "phone": "0722222222",
+        "role": "patient",
+        "needs_attention": true
+    }
+]

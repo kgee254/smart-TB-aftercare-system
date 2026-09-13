@@ -18,3 +18,9 @@ class DataManager:
 
         with open(file_path, "r") as file:
             return json.load(file)
+
+    def save(self, filename, data):
+        return self.save_data(filename, data)
+
+    def load(self, filename):
+        return self.load_data(filename)

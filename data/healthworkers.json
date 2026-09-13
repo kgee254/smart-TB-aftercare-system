@@ -1,0 +1,11 @@
+[
+    {
+        "healthworker_id": 1,
+        "name": "Grace Wambui",
+        "username": "healthworker1",
+        "password": "health123",
+        "phone": "0733333333",
+        "role": "healthworker",
+        "assigned_patients": [1, 2]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "patient_id": 1,
+        "medication_id": 201,
+        "date": "2026-09-10",
+        "status": "taken"
+    },
+    {
+        "patient_id": 1,
+        "medication_id": 201,
+        "date": "2026-09-11",
+        "status": "taken"
+    },
+    {
+        "patient_id": 1,
+        "medication_id": 201,
+        "date": "2026-09-12",
+        "status": "missed"
+    },
+    {
+        "patient_id": 1,
+        "medication_id": 202,
+        "date": "2026-09-10",
+        "status": "taken"
+    },
+    {
+        "patient_id": 1,
+        "medication_id": 202,
+        "date": "2026-09-11",
+        "status": "taken"
+    },
+    {
+        "patient_id": 2,
+        "medication_id": 203,
+        "date": "2026-09-01",
+        "status": "taken"
+    },
+    {
+        "patient_id": 2,
+        "medication_id": 203,
+        "date": "2026-09-02",
+        "status": "missed"
+    },
+    {
+        "patient_id": 2,
+        "medication_id": 203,
+        "date": "2026-09-03",
+        "status": "missed"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "patient_id": 1,
+        "date": "2026-09-10",
+        "symptoms": ["cough"],
+        "other_symptom": null,
+        "severity": "mild",
+        "notes": "Mild cough in the morning."
+    },
+    {
+        "patient_id": 2,
+        "date": "2026-09-05",
+        "symptoms": ["cough", "fever"],
+        "other_symptom": null,
+        "severity": "severe",
+        "notes": "Worsening symptoms since starting treatment."
+    }
+]

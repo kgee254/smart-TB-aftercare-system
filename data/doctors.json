@@ -1,0 +1,11 @@
+[
+    {
+        "doctor_id": 1,
+        "name": "Dr. Jane Wanjiku",
+        "username": "doctor1",
+        "password": "doctor123",
+        "phone": "0712345678",
+        "specialization": "TB Specialist",
+        "role": "doctor"
+    }
+]

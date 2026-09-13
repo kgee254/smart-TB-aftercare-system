@@ -1,0 +1,9 @@
+[
+    {
+        "request_id": 1,
+        "patient_id": 2,
+        "medication_id": 203,
+        "status": "requested",
+        "date": "2026-09-12"
+    }
+]

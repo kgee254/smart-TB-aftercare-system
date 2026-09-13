@@ -1,0 +1,42 @@
+[
+    {
+        "medication_id": 201,
+        "treatment_id": 101,
+        "name": "Rifampicin",
+        "dosage": 600,
+        "frequency": 1,
+        "quantity": 180,
+        "duration_days": 180,
+        "instructions": "Take once daily before breakfast."
+    },
+    {
+        "medication_id": 202,
+        "treatment_id": 101,
+        "name": "Isoniazid",
+        "dosage": 300,
+        "frequency": 1,
+        "quantity": 180,
+        "duration_days": 180,
+        "instructions": "Take once daily with food."
+    },
+    {
+        "medication_id": 203,
+        "treatment_id": 102,
+        "name": "Rifampicin",
+        "dosage": 600,
+        "frequency": 1,
+        "quantity": 180,
+        "duration_days": 180,
+        "instructions": "Take once daily before breakfast."
+    },
+    {
+        "medication_id": 204,
+        "treatment_id": 102,
+        "name": "Pyrazinamide",
+        "dosage": 1500,
+        "frequency": 1,
+        "quantity": 180,
+        "duration_days": 180,
+        "instructions": "Take once daily with food."
+    }
+]

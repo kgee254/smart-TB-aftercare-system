@@ -118,7 +118,7 @@ def test_healthworker_can_identify_patient_with_low_adherence(
     adherence_rate = adherence_tracker.get_adherence_percentage()
 
     assert adherence_rate == pytest.approx(33.33, abs=0.01)
-    assert patient.patient_id in healthworker.assigned_patient_ids
+    assert patient.patient_id in healthworker.assigned_patients
 
 
 def test_patient_symptoms_can_trigger_followup(
